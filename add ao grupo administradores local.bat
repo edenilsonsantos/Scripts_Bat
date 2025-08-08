@@ -2,9 +2,9 @@
 
 ::            By Edenilson Santos (santoeen@gmail.com)
 
-net localgroup administradores tacia_almeida /add 
-net localgroup administradores marco_portas /add 
-net localgroup administradores luane_tedeschi /add 
+net localgroup administradores name_lastname1 /add 
+net localgroup administradores name_lastname2 /add 
+net localgroup administradores name_lastname3 /add 
 
 pause
 
